@@ -1,4 +1,3 @@
 # CAS-ADS-Projects-Kabirdev-Singh-Ramana
-git add .
-git commit -m "Cleaned up files and updated project"
-git push origin main
+git commit --amend -m 
+git push origin main --force
