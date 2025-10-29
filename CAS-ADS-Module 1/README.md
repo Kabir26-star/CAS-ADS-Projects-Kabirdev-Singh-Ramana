@@ -4,5 +4,10 @@
 
 <p>It can be opened via Visual Studio Code, Jupyter Notebooks and Google Colab</p>
 
-
+<h1>Libraries</h1>
+<ul>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Numpy</li>
+ </ul>
 
