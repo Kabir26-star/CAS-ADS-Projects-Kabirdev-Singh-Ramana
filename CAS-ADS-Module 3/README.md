@@ -10,5 +10,5 @@
 <li>Numpy</li>
 <li>Seaborn</li>
 <li>Scipy</li>
-<l1>Sklearn</li>
+<li>Sklearn</li>
 </ul>
