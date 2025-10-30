@@ -1,15 +1,16 @@
 # CAS-ADS-Projects-Kabirdev-Singh-Ramana
 Guidelines
-1. Install Required Tools
+<li>
+<ul>1. Install Required Tools
 
 Download and install Git Bash from https://git-scm.com/downloads
 
 Install Visual Studio Code (VS Code) from https://code.visualstudio.com
 
 Install Python from https://python.org/downloads
- (if not already installed)
+ (if not already installed)</ul>
 
-2. Clone the GitHub Repository
+<ul>2. Clone the GitHub Repository
 
 Open Git Bash.
 
@@ -20,9 +21,9 @@ cd Documents/Projects
 
 Run the clone command (replace with your repository link):
 
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/yourusername/your-repository.git</ul>
 
-3. Open the Project in Visual Studio Code
+<ul>3. Open the Project in Visual Studio Code
 
 In Git Bash, navigate into the cloned folder:
 
@@ -34,9 +35,10 @@ Launch VS Code directly from Git Bash:
 code .
 
 
-(Alternatively, open VS Code → File → Open Folder → select your project folder.)
+(Alternatively, open VS Code → File → Open Folder → select your project folder.)</ul>
 
-4. Run the Python Files
+
+<ul>4. Run the Python Files
 
 In VS Code, open the .py file you want to run.
 
@@ -48,4 +50,5 @@ Click the Run ▶ button at the top-right corner
 
 Or run it in the terminal:
 
-python filename.py
+python filename.py</ul>
+</li>
