@@ -27,13 +27,17 @@ Before starting, make sure the following tools are installed on your system:
 git clone https://github.com/yourusername/your-repository.git
 
 ## 4. Open the Project in VS Code 
-Move into the cloned repository folder in Git Bash:
+In Git Bash, navigate into the cloned folder:
 
 cd your-repository
 
-Launch VS Code from Git Bash:
+
+Launch VS Code directly from Git Bash:
 
 code .
+
+
+(Alternatively, open VS Code → File → Open Folder → select your project folder.)
 
 ## 5. Run the Python Files 
 In VS Code, open the .py file you want to run.
