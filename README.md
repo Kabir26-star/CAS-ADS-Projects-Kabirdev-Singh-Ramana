@@ -46,7 +46,7 @@ Clicking the Run ▶ button in VS Code, or
 
 Executing it in the terminal:
 
-phyton filename.py
+python filename.py
 
 Make sure you have installed the requirements to be able to run all the scripts:
 
