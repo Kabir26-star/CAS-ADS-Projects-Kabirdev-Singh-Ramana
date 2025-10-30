@@ -16,18 +16,18 @@ Open Git Bash.
 
 Navigate to the folder where you want to save the project:
 
-cd Documents/Projects
+<b>cd Documents/Projects</b>
 
 
 Run the clone command (replace with your repository link):
 
-git clone https://github.com/yourusername/your-repository.git
+<b>git clone https://github.com/yourusername/your-repository.git</b>
 
 # 3. Open the Project in Visual Studio Code
 
 In Git Bash, navigate into the cloned folder:
 
-cd your-repository
+<b>cd your-repository</b>
 
 
 Launch VS Code directly from Git Bash:
@@ -49,8 +49,8 @@ Click the Run ▶ button at the top-right corner
 
 Or run it in the terminal:
 
-python filename.py
+<b>python filename.py</b>
 
 # Reminder
 If you don't have python dependencies, do run the following command on GitBash: 
-pip install -r requirements.txt
+<b>pip install -r requirements.txt</b>
