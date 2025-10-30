@@ -1,32 +1,30 @@
 # CAS-ADS-Projects-Kabirdev-Singh-Ramana
+🧭 Guidelines
 
-# 🧭 Project Setup Guidelines
+1. Install Required Tools
 
-Follow the steps below to clone the repository, open it in Visual Studio Code, and run the Python files.
+Download and install Git Bash from https://git-scm.com/downloads
 
----
+Install Visual Studio Code (VS Code) from https://code.visualstudio.com
 
-## 1. Install Required Tools
+Install Python from https://python.org/downloads
+ (if not already installed)
 
-Before starting, make sure the following tools are installed on your system:
+2. Clone the GitHub Repository
 
-- [**Git Bash**](https://git-scm.com/downloads) – for working with Git commands  
-- [**Visual Studio Code (VS Code)**](https://code.visualstudio.com/) – for editing and running code  
-- [**Python**](https://www.python.org/downloads/) – to execute `.py` files
+Open Git Bash.
 
----
+Navigate to the folder where you want to save the project:
 
-## 2. Clone the GitHub Repository
+cd Documents/Projects
 
-1. Open **Git Bash**.  
-2. Navigate to the folder where you want to save the project:
-   ```bash
-   cd Documents/Projects
 
-## 3. Clone the repository using your GitHub URL:
+Run the clone command (replace with your repository link):
+
 git clone https://github.com/yourusername/your-repository.git
 
-## 4. Open the Project in VS Code 
+3. Open the Project in Visual Studio Code
+
 In Git Bash, navigate into the cloned folder:
 
 cd your-repository
@@ -39,19 +37,20 @@ code .
 
 (Alternatively, open VS Code → File → Open Folder → select your project folder.)
 
-## 5. Run the Python Files 
+4. Run the Python Files
+
 In VS Code, open the .py file you want to run.
 
-Ensure the correct Python interpreter is selected (bottom-right corner of VS Code).
+Make sure Python is installed and selected as the interpreter.
 
-Run the file by either:
+Run the file using one of these options:
 
-Clicking the Run ▶ button in VS Code, or
+Click the Run ▶ button at the top-right corner
 
-Executing it in the terminal:
+Or run it in the terminal:
 
 python filename.py
 
-Make sure you have installed the requirements to be able to run all the scripts:
-
+Reminder
+If you don't have python dependencies, do run the following command on GitBash: 
 pip install -r requirements.txt
