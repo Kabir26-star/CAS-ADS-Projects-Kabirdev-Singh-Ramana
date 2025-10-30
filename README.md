@@ -46,4 +46,7 @@ Clicking the Run ▶ button in VS Code, or
 
 Executing it in the terminal:
 
-python filename.py
+phyton filename.py
+
+Reminder : 
+Install pip -r requirements.txt if you have any missing dependencies
