@@ -1,54 +1,49 @@
 # CAS-ADS-Projects-Kabirdev-Singh-Ramana
-Guidelines
-<li>
-<ul>1. Install Required Tools
 
-Download and install Git Bash from https://git-scm.com/downloads
+# 🧭 Project Setup Guidelines
 
-Install Visual Studio Code (VS Code) from https://code.visualstudio.com
+Follow the steps below to clone the repository, open it in Visual Studio Code, and run the Python files.
 
-Install Python from https://python.org/downloads
- (if not already installed)</ul>
+---
 
-<ul>2. Clone the GitHub Repository
+## 1. Install Required Tools
 
-Open Git Bash.
+Before starting, make sure the following tools are installed on your system:
 
-Navigate to the folder where you want to save the project:
+- [**Git Bash**](https://git-scm.com/downloads) – for working with Git commands  
+- [**Visual Studio Code (VS Code)**](https://code.visualstudio.com/) – for editing and running code  
+- [**Python**](https://www.python.org/downloads/) – to execute `.py` files
 
-cd Documents/Projects
+---
 
+## 2. Clone the GitHub Repository
 
-Run the clone command (replace with your repository link):
+1. Open **Git Bash**.  
+2. Navigate to the folder where you want to save the project:
+   ```bash
+   cd Documents/Projects
 
-git clone https://github.com/yourusername/your-repository.git</ul>
+## 3. Clone the repository using your GitHub URL:
+git clone https://github.com/yourusername/your-repository.git
 
-<ul>3. Open the Project in Visual Studio Code
-
-In Git Bash, navigate into the cloned folder:
+## 4. Open the Project in VS Code 
+Move into the cloned repository folder in Git Bash:
 
 cd your-repository
 
-
-Launch VS Code directly from Git Bash:
+Launch VS Code from Git Bash:
 
 code .
 
-
-(Alternatively, open VS Code → File → Open Folder → select your project folder.)</ul>
-
-
-<ul>4. Run the Python Files
-
+## 5. Run the Python Files 
 In VS Code, open the .py file you want to run.
 
-Make sure Python is installed and selected as the interpreter.
+Ensure the correct Python interpreter is selected (bottom-right corner of VS Code).
 
-Run the file using one of these options:
+Run the file by either:
 
-Click the Run ▶ button at the top-right corner
+Clicking the Run ▶ button in VS Code, or
 
-Or run it in the terminal:
+Executing it in the terminal:
 
-python filename.py</ul>
-</li>
+python filename.py
