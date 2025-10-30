@@ -2,7 +2,7 @@
 
 <h1>Hospitilization Data Code</h1>
 
-<p>It can be opened via Visual Studio Code, Jupyter Notebooks and Google Colab</p>
+<p>This notebook is a Data Acquistion and Management assignment (Module 1) that focuses on exploring and visualizing a healthcare dataset</p>
 
 <h1>Libraries</h1>
 <ul>
