@@ -48,5 +48,6 @@ Executing it in the terminal:
 
 phyton filename.py
 
-Reminder : 
-Install pip -r requirements.txt if you have any missing dependencies
+Make sure you have installed the requirements to be able to run all the scripts:
+
+pip install -r requirements.txt
