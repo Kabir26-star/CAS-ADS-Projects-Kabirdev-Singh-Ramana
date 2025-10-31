@@ -1,4 +1,0 @@
-nltk
-pdoc
-pytest
-notebook
