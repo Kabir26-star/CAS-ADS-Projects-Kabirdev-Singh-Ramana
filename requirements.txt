@@ -1,0 +1,10 @@
+nltk
+pdoc
+pytest
+notebook
+pandas
+matplotlib
+numpy
+seaborn
+scikit-learn
+
